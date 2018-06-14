@@ -37,7 +37,7 @@
 
       <h1>CodeU Chat App</h1>
       <h2>Welcome!</h2>
-
+      <p>This is a test app by Nicki</p>
       <ul>
         <li><a href="/login">Login</a> to get started.</li>
         <li>Go to the <a href="/conversations">conversations</a> page to
